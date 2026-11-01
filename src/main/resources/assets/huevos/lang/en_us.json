@@ -1,0 +1,9 @@
+{
+  "item.huevos.chaleco_rojo":"Chaleco rojo","item.huevos.chaleco_azul":"Chaleco azul",
+  "item.huevos.chaleco_verde":"Chaleco verde","item.huevos.chaleco_amarillo":"Chaleco amarillo",
+  "item.huevos.huevo_blanco":"Huevo blanco","item.huevos.huevo_rojo":"Huevo rojo",
+  "item.huevos.huevo_azul":"Huevo azul","item.huevos.huevo_verde":"Huevo verde","item.huevos.huevo_amarillo":"Huevo amarillo",
+  "entity.huevos.huevo":"Huevo de Pascua",
+  "entity.huevos.dummy_rojo":"Chaleco rojo","entity.huevos.dummy_azul":"Chaleco azul",
+  "entity.huevos.dummy_verde":"Chaleco verde","entity.huevos.dummy_amarillo":"Chaleco amarillo"
+}

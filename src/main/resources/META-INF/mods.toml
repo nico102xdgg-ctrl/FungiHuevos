@@ -1,0 +1,23 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All rights reserved"
+
+[[mods]]
+modId="huevos"
+version="1.0.0"
+displayName="Huevos de Pascua"
+description='Minijuego de huevos de Pascua por equipos (estilo Squid Craft Games 2).'
+
+[[dependencies.huevos]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.huevos]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"
